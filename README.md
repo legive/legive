@@ -1,16 +1,39 @@
-### Hi there 👋
+<h1>Hello World, ¡soy Leyla! <br/><a href="https://github.com/legive">fullStack MERN, Visual Basic.Net Developer,</a>, <a href="http://www.linkedin.com/in/leylagiselavasquezenamorado-developer">FullStack Developer</a>, <a href="https://www.youtube.com/@tutosbylegive">YouTuber</a></h1>
+
+<h2>👩🏽‍💻 Mis Proyectos</h2>
+
+  - [My React TaskList App: React, Chakra UI ](https://github.com/legive/my-react-task-list.git) 
+  - [SAINTERRA Sistema de control administrativo para ISP: Visual Basic.Net y MySql](https://github.com/legive/SAINTERRA-ISP.git) 
+
+
+<h2>📄 Certificados </h2>
+
+- [ADA School-PROTalento](https://learn.ada-school.org/certifications/654a3fb9ba362cc3577e9288)
+
+<h2>📺 Videos Demo</h2>
+
+- [Mi lista de tareas en React](https://youtu.be/OVSLtYXmQWo)
+
+
+## 🤳 Conecta conmigo:
+
+[<img align="left" alt="Legive-dev | YouTube" width="22px" src="https://www.youtube.com/favicon.ico" />][youtube]
+[<img align="left" alt="LeylaVasquez | LinkedIn" width="22px" src="https://linkedin.com/favicon.ico" />][linkedin]
+
+
+[youtube]: https://www.youtube.com/tutosbylegive
+[linkedin]: https://linkedin.com/in/leylagiselavasquezenamorado-developer
+
 
 <!--
-**legive/legive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**naekm/naekmv** es un repositorio ✨ _special_ ✨ ya que el archivo `README.md` (este archivo ) aparece directamente en tu perfil de Github.
 
-Here are some ideas to get you started:
+Aquí hay más cosas que puedes incluir:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Estoy trabajando en ...
+- 🌱 Actualmente aprendo ...
+- 👯 Estoy buscando colaborar con ...
+- 💬 Me puedes preguntar de ...
+- 📫 Cómo contactarme: ...
+
 -->
