@@ -2,6 +2,7 @@
 
 <h2>👩🏽‍💻 Mis Proyectos</h2>
 
+  - [Encriptador de texto ](https://github.com/legive/Challenge-Oracle-ONE.git) 
   - [My React TaskList App: React, Chakra UI ](https://github.com/legive/my-react-task-list.git) 
   - [SAINTERRA Sistema de control administrativo para ISP: Visual Basic.Net y MySql](https://github.com/legive/SAINTERRA-ISP.git) 
 
