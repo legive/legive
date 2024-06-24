@@ -9,6 +9,7 @@
 
 <h2>📄 Certificados </h2>
 
+- [Universidad Católica de Honduras]
 - [ADA School-PROTalento](https://learn.ada-school.org/certifications/654a3fb9ba362cc3577e9288)
 
 <h2>📺 Videos Demo</h2>
