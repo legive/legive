@@ -1,4 +1,4 @@
-<h1>Hello World, ¡soy Leyla! <br/><a href="https://github.com/legive">fullStack MERN, Visual Basic.Net Developer,</a>, <a href="http://www.linkedin.com/in/leylagiselavasquezenamorado-developer">FullStack Developer</a>, <a href="https://www.youtube.com/@tutosbylegive">YouTuber</a></h1>
+<h1>Hello World, ¡soy Leyla! <br/><a href="https://github.com/legive">fullStack MERN,</a>, <a href="http://www.linkedin.com/in/leylagiselavasquezenamorado-developer">, <a href="https://www.youtube.com/@tutosbylegive">YouTuber</a></h1>
 
 <h2>👩🏽‍💻 Mis Proyectos</h2>
 
@@ -32,7 +32,7 @@
 [<img align="left" alt="LeylaVasquez | LinkedIn" width="22px" src="https://linkedin.com/favicon.ico" />][linkedin]
 
 
-[youtube]: (https://youtube.com/@tutosbylegive?si=CICxfFu3UkXUqKtk)
+[youtube]: https://youtube.com/@tutosbylegive?si=CICxfFu3UkXUqKtk
 [linkedin]: https://linkedin.com/in/leylagiselavasquezenamorado-developer
 
 
