@@ -32,7 +32,7 @@
 [<img align="left" alt="LeylaVasquez | LinkedIn" width="22px" src="https://linkedin.com/favicon.ico" />][linkedin]
 
 
-[youtube]: (https://www.youtube.com/@tutosbylegive)
+[youtube]: (https://youtube.com/@tutosbylegive?si=CICxfFu3UkXUqKtk)
 [linkedin]: https://linkedin.com/in/leylagiselavasquezenamorado-developer
 
 
