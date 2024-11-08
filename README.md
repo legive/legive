@@ -2,13 +2,13 @@
 
 <h2>👩🏽‍💻 Mis Proyectos</h2>
 
-- [Carrito de Compras](https://github.com/legive/Carrito-de-Compras.git)
+- [Carrito de Compras React Js/Typescript](https://github.com/legive/Carrito-de-Compras.git)
 
-- [AluraFlix](https://github.com/legive/AluraFlix.git)
+- [AluraFlix React Js, Node](https://github.com/legive/AluraFlix.git)
  
-- [AluraGeek_Challenge](https://github.com/legive/AluraGeek_Challenge.git)
+- [AluraGeek_Challenge React Js](https://github.com/legive/AluraGeek_Challenge.git)
  
-- [Encriptador de texto ](https://github.com/legive/Challenge-Oracle-ONE.git) 
+- [Encriptador de texto HTML,CSS, Javascript](https://github.com/legive/Challenge-Oracle-ONE.git) 
  
 - [My React TaskList App: React, Chakra UI ](https://github.com/legive/my-react-task-list.git) 
  
