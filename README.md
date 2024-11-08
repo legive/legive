@@ -2,11 +2,16 @@
 
 <h2>👩🏽‍💻 Mis Proyectos</h2>
  - [Carrito de Compras](https://github.com/legive/Carrito-de-Compras.git)
+ 
  -[AluraFlix](https://github.com/legive/AluraFlix.git)
+ 
  -[AluraGeek_Challenge](https://github.com/legive/AluraGeek_Challenge.git)
-  - [Encriptador de texto ](https://github.com/legive/Challenge-Oracle-ONE.git) 
-  - [My React TaskList App: React, Chakra UI ](https://github.com/legive/my-react-task-list.git) 
-  - [SAINTERRA Sistema de control administrativo para ISP: Visual Basic.Net y MySql](https://github.com/legive/SAINTERRA-ISP.git) 
+ 
+ - [Encriptador de texto ](https://github.com/legive/Challenge-Oracle-ONE.git) 
+ 
+ - [My React TaskList App: React, Chakra UI ](https://github.com/legive/my-react-task-list.git) 
+ 
+ - [SAINTERRA Sistema de control administrativo para ISP: Visual Basic.Net y MySql](https://github.com/legive/SAINTERRA-ISP.git) 
 
 
 <h2>📄 Certificados </h2>
